@@ -8,4 +8,11 @@ export default function About() {
             <Link href="/">Back home</Link>
         </div>
     )
+
+
+
 }
+
+<html>
+    
+</html>
